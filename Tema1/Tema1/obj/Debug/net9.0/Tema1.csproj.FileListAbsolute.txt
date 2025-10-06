@@ -1,0 +1,14 @@
+G:\RiderProjects\Tema1\Tema1\bin\Debug\net9.0\Tema1.exe
+G:\RiderProjects\Tema1\Tema1\bin\Debug\net9.0\Tema1.deps.json
+G:\RiderProjects\Tema1\Tema1\bin\Debug\net9.0\Tema1.runtimeconfig.json
+G:\RiderProjects\Tema1\Tema1\bin\Debug\net9.0\Tema1.dll
+G:\RiderProjects\Tema1\Tema1\bin\Debug\net9.0\Tema1.pdb
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.AssemblyInfoInputs.cache
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.AssemblyInfo.cs
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.csproj.CoreCompileInputs.cache
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.dll
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\refint\Tema1.dll
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.pdb
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\Tema1.genruntimeconfig.cache
+G:\RiderProjects\Tema1\Tema1\obj\Debug\net9.0\ref\Tema1.dll
